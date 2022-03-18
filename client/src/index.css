@@ -16,5 +16,23 @@ code {
 #heading {
   text-align: center;
   font-family: 'Monoton', cursive;
-  font-size: 60px;
+  font-size: 2.5rem;
+}
+/* from medium screen */
+@media only screen and (min-width:900px){
+  #heading {
+    font-size:3rem;
+  }
+}
+/* from large screen */
+@media only screen and (min-width:1200px){
+  #heading {
+    font-size:3.5rem;
+  }
+}
+/* from xl screen */
+@media only screen and (min-width:1536px){
+  #heading {
+    font-size: 4rem;
+  }
 }
