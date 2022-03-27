@@ -7,7 +7,7 @@ import { useState } from "react";
 const AddTodo = () => {
   const [show, setShow] = useState(true);
   // console.log(show);
-  const cancelHandler = (e) => {
+  const clickHandler = (e) => {
     e.preventDefault();
     setShow((s) => !s);
   };
@@ -17,7 +17,7 @@ const AddTodo = () => {
         <Btn
           variant="contained"
           type="submit"
-          onClick={() => setShow((s) => !s)}
+          onClick={clickHandler}
         >
           Add new task
         </Btn>
@@ -56,7 +56,7 @@ const AddTodo = () => {
             <InputBox id="date" type="date" variant="outlined"></InputBox>
           </Grid>
           <Grid item xs={5.75}>
-            <Btn variant="outlined" type="submit" onClick={cancelHandler}>
+            <Btn variant="outlined" type="submit" onClick={clickHandler}>
               Cancel
             </Btn>
           </Grid>
