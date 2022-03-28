@@ -22,3 +22,4 @@ This is my first app where I did both frontend and backend
 - Adding checkboxes for the todo list and cross out finished task
 ### Notes
 - Followed tutorial from [ckmobile](https://www.youtube.com/watch?v=WkhfTCrBU1E&t=5s&ab_channel=ckmobile) on youtube
+- In the tutorial, bootstrap is used for styling. However, I used Material UI and chose a different design for the website
