@@ -14,10 +14,12 @@ This is my first app where I did both frontend and backend
 ![xs screens and above](./client/src/pictures/xs.png)
 ![md screens and above](./client/src/pictures/md.png)
 ### Functionalities
-- getting, adding, updating and deleting tasks
+- Getting, adding, updating and deleting tasks
 ### Things I learned
 - Setting up backend using GraphQL, MongoDB and Apollo server
-- using queries and mutations to fetch the data using GraphQL and Apollo client in the frontend
+- Using queries and mutations to fetch the data using GraphQL and Apollo client in the frontend
+### Things left to do
+- Deploy using Heroku
 ### Feature I want to add in the future
 - Adding checkboxes for the todo list and cross out finished task
 ### Notes
