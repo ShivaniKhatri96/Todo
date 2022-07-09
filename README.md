@@ -10,7 +10,7 @@ This is my first app where I did both frontend and backend
 - Material UI
 ### Responsive Design
 - Responsive design that adapts to different screen sizes
-- Example: below md and above md screens
+- Example: first picture is for below medium screen sizes and second picture is for above medium screens
 ![xs screens and above](./client/src/pictures/xs.png)
 ![md screens and above](./client/src/pictures/md.png)
 ### Functionalities
