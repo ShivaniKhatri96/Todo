@@ -1,7 +1,6 @@
 ## Todo App 
 This is my first app where I did both frontend and backend
-### Website
-- Website link will be added soon...
+
 ### Tools used
 - React
 - Apollo
@@ -25,3 +24,5 @@ This is my first app where I did both frontend and backend
 ### Notes
 - Followed tutorial from [ckmobile](https://www.youtube.com/watch?v=WkhfTCrBU1E&t=5s&ab_channel=ckmobile) on youtube
 - In the tutorial, bootstrap is used for styling. However, I used Material UI and chose a different design for the website
+
+> This website won't be deployed. I will leave it as public until I have better full-stack projects. Thank you for your understanding!
